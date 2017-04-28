@@ -11,7 +11,7 @@
     </insert>
 
     <select id="queryByIdWithSeckill" resultType="SuccessKilled">
-      <!--根据Id查询SuccessKilled并携带seck111ill实例-->
+      <!--根据Id查询SuccessKilled并携带seckill实例-->
       <!--如何告诉MyBatis把结果映射到SuccessKilled同时映射seckill属性-->
       <!--可以自由控制SQL-->
         select
