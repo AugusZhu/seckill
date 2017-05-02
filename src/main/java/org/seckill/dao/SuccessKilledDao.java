@@ -4,7 +4,6 @@ import org.seckill.entity.SuccesKilled;
 
 /**
  * Created by ZhuXianfei on 2017/4/27.
- * This is a test.
  */
 public interface SuccessKilledDao {
     /**
