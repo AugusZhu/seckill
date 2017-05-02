@@ -1,6 +1,6 @@
 package org.seckill.dao;
 
-import org.seckill.entity.SuccesKilled;
+import org.seckill.entity.SuccessKilled;
 
 /**
  * Created by ZhuXianfei on 2017/4/27.
@@ -21,6 +21,7 @@ public interface SuccessKilledDao {
      * @param seckillId
      * @return
      */
-    SuccesKilled queryByIdWithSeckill(long seckillId);
+    SuccessKilled queryByIdWithSeckill(long seckillId);
+
 
 }
