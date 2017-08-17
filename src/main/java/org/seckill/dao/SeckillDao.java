@@ -7,6 +7,7 @@ import java.util.List;
 
 /**
  * Created by ZhuXianfei on 2017/4/27.
+ * eclipse配置git测试
  */
 public interface SeckillDao {
     /**
